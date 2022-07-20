@@ -1,4 +1,4 @@
-# ImmunePriming-RNAseq
+# Immune Priming RNA-seq
 
 ## General Description:
 Downstream analysis for immune priming RNA-seq. This includes code to generate all relevant normalized data, graphs, and carry out analysis to identify priming-specific, immune loitering, and potentiated recall genes.
